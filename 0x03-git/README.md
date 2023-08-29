@@ -1,1 +1,1 @@
-Create 0x03-git directory
+Create 0x03-git directory for git project
